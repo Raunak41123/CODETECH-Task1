@@ -4,7 +4,9 @@
 
 **Domain :** C++
 
-**Duration :** december24 to january25
+**Duration :** 17 december 2024 to 17 february 2025
+
+**Intern Id:** CT12DZJ
 
 ### Overview of the project
 
