@@ -1,1 +1,13 @@
-# CODETECH-Task1
+**Name:** Raunak
+**Company name:** CODTECH IT SOLUTIONS
+**Domain :** C++
+**Duration :** december24 to january25
+
+### Overview of the project
+
+## Project Name: Temperature Converter
+
+## Project Description 
+This project is used to convert temperature from one scale to another. The user enters an input temperature in one scale and they can output the given temperature into desired different scale.
+## Output view:
+![Screenshot (4)](https://github.com/user-attachments/assets/157072b2-dd2b-49e4-8354-dff24500a261)
